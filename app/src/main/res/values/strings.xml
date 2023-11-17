@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Конвертер</string>
+    <string name="result_format">Результат: %.2f</string>
+</resources>
